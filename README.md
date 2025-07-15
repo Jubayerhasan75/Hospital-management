@@ -6,7 +6,7 @@ A full-stack Hospital Management System using mern-stack with role-based access 
 
 ## Short Description
 
-Hospitalix is a Node.js and React-based hospital management application that supports multiple roles (patient, doctor, admin). Users can book appointments, purchase medicine, manage doctor profiles, and handle billing—all in a user-friendly interface.
+Hospital Management System is a Node.js and React-based hospital management application that supports multiple roles (patient, doctor, admin). Users can book appointments, purchase medicine, manage doctor profiles, and handle billing—all in a user-friendly interface.
 
 ---
 
