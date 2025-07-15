@@ -1,4 +1,4 @@
-# Hospitalix
+# Hospital Management System
 
 A full-stack Hospital Management System using mern-stack with role-based access control, designed to streamline patient care, doctor workflows, and administrative tasks.
 
